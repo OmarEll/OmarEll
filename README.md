@@ -9,7 +9,7 @@
 ✨ I'm an IT student from Tunisia studying in France at University of Lorraine. 
 
 I love competitive programming and solving problems so i practice regulary and i participate sometimes in some online competitions for fun.
-i would like to work on open source projects and learn new stuff. When I'm not coding, i'm draw some stuff that you can found on my instagram,
+i would like to work on open source projects and learn new stuff. When I'm not coding, i'm draw some stuff that you can find on my instagram,
 i read books too, and my last book was *The Alchemist* check it out!
 
 
