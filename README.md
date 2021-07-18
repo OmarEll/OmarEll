@@ -6,7 +6,7 @@
 </p>
 
 ---
-✨ I'm an IT student from Tunisia studying in france at University of Lorraine. 
+✨ I'm an IT student from Tunisia studying in France at University of Lorraine. 
 
 I love competitive programming and solving problems so i practice regulary and i participate sometimes in some online competitions for fun.
 i would like to work on open source projects and learn new stuff. When I'm not coding, i'm draw some stuff that you can found on my instagram,
