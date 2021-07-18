@@ -16,5 +16,5 @@ i read books too, and my last book was *The Alchemist* check it out!
 - 😄 My Pronouns: He/His   
 - 🌱 I’m currently learning Django
 - 💬 Ask me about: Java, C, Assembly x86, Pascal.
-- 📫 How to reach me: [E-Mail](mailto: oamrelloumi531@gmail.com)
+- 📫 How to reach me: [omarelloumi531](mailto:omarelloumi531@gmail.com)
 - ⚡ Fun fact: I'm more productive when i code with my playlist on!
