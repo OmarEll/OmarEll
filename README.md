@@ -6,8 +6,8 @@
 </p>
 
 ---
-✨ I'm an IT student from Tunisia studying in France at University of Lorraine. 
-I publish here my personal projects and college projects as well. ✨
+✨I'm an IT student from Tunisia studying in France at University of Lorraine. 
+I publish here my personal projects and college projects as well.✨
 
 - 😄 My Pronouns: He/His   
 - 🌱 I’m currently learning Django
