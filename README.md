@@ -11,5 +11,5 @@ I publish here my personal projects and college projects as well.✨
 
 - 😄 My Pronouns: He/His   
 - 🌱 I’m currently learning Django
-- 💬 Ask me about: Java, C, Assembly x86, Pascal.
+- 💬 Ask me about: Java, C, Python, Pascal.
 - 📫 How to reach me: [omarelloumi531@gmail.com](mailto:omarelloumi531@gmail.com)
