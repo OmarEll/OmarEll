@@ -10,6 +10,6 @@
 I publish here my personal projects and college projects as well.✨
 
 - 😄 My Pronouns: He/His   
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning PHP
 - 💬 Ask me about: Java, C, C++, Python, Pascal.
 - 📫 How to reach me: [omarelloumi531@gmail.com](mailto:omarelloumi531@gmail.com)
