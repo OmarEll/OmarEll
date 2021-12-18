@@ -9,7 +9,6 @@
 ✨I'm an IT student from Tunisia studying in France at University of Lorraine. 
 I publish here my personal projects and college projects as well.✨
 
-- 😄 My Pronouns: He/His   
-- 🌱 I’m currently learning PHP
-- 💬 Ask me about: Java, C, C++, Python, Pascal.
+- 🌱 I’m currently learning Symfony
+- 💬 Ask me about: Java, C, C++, Python, PHP, Pascal.
 - 📫 How to reach me: [omarelloumi531@gmail.com](mailto:omarelloumi531@gmail.com)
