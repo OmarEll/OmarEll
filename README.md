@@ -6,7 +6,7 @@
 </p>
 
 ---
-✨I'm an IT student from Tunisia studying in France at University of Lorraine. 
+✨I'm an IT student from Tunisia studying in France at University of Technology of Compiègne. 
 I publish here my personal projects and college projects as well.✨
 
 - 🌱 I’m currently learning Typescript
